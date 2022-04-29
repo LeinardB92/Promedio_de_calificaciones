@@ -3,10 +3,10 @@
 Calcular el promedio de los valores para una lista de estudiantes, ambos valores como parámetros de entrada.
 Iniciando este programa se te pedirá registrar el nombre del estudiante y seguido un puntaje de 0 a 10 (únicamente números enteros), 
 
-`
+```
 Enter the student’s name: Carlos
 Enter the student’s score: 9
-`
+```
 
 Aquí se ingresó el nombre de _“Carlos”_ y se le asigno el puntaje _“9”_, continuamente se repetirán estas 2 líneas, guardando los valores que ingreses en forma de tupla dentro de un diccionario llamado _“school_class”_. 
 
